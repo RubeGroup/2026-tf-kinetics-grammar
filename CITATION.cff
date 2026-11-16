@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "2026-tf-kinetics-grammar: Gillespie simulations of transcription factor binding kinetics"
+abstract: >-
+  Gillespie (stochastic) simulations of a continuous-time Markov chain model of
+  transcription factor binding to DNA, with the notebook that generates the
+  simulation panels of Figure 2 of the accompanying manuscript.
+authors:
+  - family-names: Emami
+    given-names: Shahram
+    affiliation: "University of California, Merced"
+  - family-names: Ben Zeev
+    given-names: Guy
+    affiliation: "University of California, Merced"
+  - family-names: Rube
+    given-names: H. Tomas
+    affiliation: "University of California, Merced"
+    orcid: "https://orcid.org/0000-0002-1569-4290"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/RubeGroup/2026-tf-kinetics-grammar"
+keywords:
+  - transcription factor
+  - binding kinetics
+  - continuous-time Markov chain
+  - Gillespie algorithm
